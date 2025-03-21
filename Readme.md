@@ -46,6 +46,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=your_db_name
 JWT_SECRET=your_jwt_secret
+GEMINI_API_KEY=your_gemini_api_key
 ```
 
 3. Initialize the database:
