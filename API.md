@@ -5,6 +5,11 @@
 http://localhost:8000/api
 ```
 
+## Base URL for Production
+```
+https://zocket-task-manager-backend.onrender.com
+```
+
 ## Authentication
 
 ### Sign Up
